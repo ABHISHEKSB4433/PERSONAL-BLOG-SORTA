@@ -1,0 +1,1 @@
+I have been learning a lot of things involved in data engineering, like how to create a data pipeline from scratch either locally or to the cloud using tools such as Docker, airflow, and terraform #dezoomcamp
